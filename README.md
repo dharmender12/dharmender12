@@ -1,6 +1,13 @@
-## Hi there 👋
-my name is Dharmender
-
+## Hi there 👋, **my name is Dharmender**
+### 🙋‍♂️ About me
+---------
+- 🔭 I’m currently working on Supply Chain and Inventory Optimization System.
+- 🌱 I’m currently learning machine learning and Deep learning with agentic AI. 
+- 👯 I’m looking to collaborate on data science project. 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
 **PhD Scholar | Intern at Indian Institute of Astrophysics | Aspiring Data Scientist & Astronomer**
 
 Welcome to my GitHub profile. I am currently pursuing a PhD at the **Central University of Himachal Pradesh** and working as a research intern at the **Indian Institute of Astrophysics (IIA)**. My work lies at the intersection of **astronomy**, **data science**, and **scientific programming** — combining domain expertise with analytical tools to solve complex, data-driven problems.
