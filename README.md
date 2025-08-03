@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Dharmender!
-
-### 🙋‍♂️ About Me
 ---------
+
 
 - 🔭 Aspiring Data Scientist & Astronomer: Currently pursuing a PhD at the Central University of Himachal Pradesh 🏛️. And Data science at [![Masai](https://img.shields.io/badge/Masai-School-red?style=flat&logo=data:image/svg+xml;base64,)](https://www.masaischool.com)
 - 💼 Current Role: Intern at Indian Institute of Astrophysics 🌌, working on a Supply Chain and Inventory Optimization System 📦.
