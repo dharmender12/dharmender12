@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Dharmender!
-**Aspiring Data Scientist || Astronomer**
+**Aspiring Data Scientist**
 ---------
 
-- 🔭 Currently doing data science course from Masai and pursuing PhD at the Central University of Himachal Pradesh 🏛️. 
+- 🔭 Currently doing data science course from Masai and pursuing PhD (Astronomy) from Central University of Himachal Pradesh 🏛️. 
 - 💼 Current Role: Intern at Indian Institute of Astrophysics 🌌,
 - 🔭 Currently working on a Supply Chain and Inventory Optimization System 📦.
 - 🌱 Learning Journey: Deepening my expertise in Machine Learning, Deep Learning, and Agentic AI 🤖.
