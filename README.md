@@ -10,3 +10,5 @@
 - 🌟 Recent Work: Developed an automated pipeline for detecting Lyman Alpha emission in Damped Lyman Alpha systems 🔭.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmender-thakur1220)
+
+![Discord](https://img.shields.io/badge/Discord-dharmender__00806-5865F2?logo=discord&logoColor=white)
