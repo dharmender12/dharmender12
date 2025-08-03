@@ -1,5 +1,4 @@
 ## Hi there 👋
-### Hi there 👋
 my name is Dharmender
 
 **PhD Scholar | Intern at Indian Institute of Astrophysics | Aspiring Data Scientist & Astronomer**
