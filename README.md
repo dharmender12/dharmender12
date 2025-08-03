@@ -8,5 +8,5 @@
 - 🌱 Learning Journey: Deepening my expertise in Machine Learning, Deep Learning, and Agentic AI 🤖.
 - 👯 Collaboration: Eager to collaborate on innovative Data Science projects 📊.
 - 🌟 Recent Work: Developed an automated pipeline for detecting Lyman Alpha emission in Damped Lyman Alpha systems 🔭.
-- onnect with me: 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmender-thakur1220)
