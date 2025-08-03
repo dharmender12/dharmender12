@@ -1,4 +1,4 @@
-<img width="500" height="535" alt="image" src="https://github.com/user-attachments/assets/c08db61c-c375-4c67-8dc5-3a0e2de7f9c6" />## 👋 Hi there, I'm Dharmender!
+## 👋 Hi there, I'm Dharmender!
 ---------
 
 
