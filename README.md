@@ -9,7 +9,6 @@
 - 👯 Collaboration: Eager to collaborate on innovative Data Science projects 📊.
 - 🌟 Recent Work: Developed an automated pipeline for detecting Lyman Alpha emission in Damped Lyman Alpha systems 🔭 [Star-Formation-in-DLAs](https://github.com/dharmender12/Star-Formation-in-DLAs).
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmender-thakur1220) 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2470-0400)
