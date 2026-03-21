@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Dharmender!
-**Aspiring Data Scientist**
+**Data Scientist | Python · SQL · Power BI · ML**
 ---------
 
 - 🔭 Completed a data science course from Masai and pursuing PhD (Astronomy) from Central University of Himachal Pradesh 🏛️. 
