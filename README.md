@@ -74,11 +74,11 @@
 
 ## 📊 GitHub Stats
 
-![Dharmender's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmender12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Dharmender's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dharmender12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharmender12&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dharmender12&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmender12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dharmender12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
@@ -87,8 +87,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmender-thakur1220)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2470-0400)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dharmender98thakur@gmail.com)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--[![](https://visitcount.itsvg.in/api?id=dharmender12&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
