@@ -19,7 +19,7 @@
 |---|---|---|
 | [📦 Supply Chain & Inventory Optimization](https://github.com/dharmender12/Supply-Chain-Inventory-Optimization-System) | Python · SQL · Power BI | 10,000+ records · 22% stockout reduction · KPI dashboard |
 | [🔭 Star Formation in DLAs](https://github.com/dharmender12/Star-Formation-in-DLAs) | Python · Signal Processing · Astronomy | 200+ spectral observations · Automated emission detection pipeline |
-| [🎬 Movie Recommendation System](https://github.com/dharmender12/movie-recommendation-system) | Python · NLP · Scikit-learn | 85%+ relevance · BoW · Cosine similarity |
+| [🎬 Movie Recommendation System](https://github.com/dharmender12/MovieRecommendation-System) | Python · NLP · Scikit-learn | 85%+ relevance · BoW · Cosine similarity |
 | [💬 Quotes Scraping & Sentiment Analysis](https://github.com/dharmender12/quotes-scraping-sql-eda) | Python · SQL · EDA | 1,000+ quotes · Sentiment polarity · SQL insights layer |
 
 ---
