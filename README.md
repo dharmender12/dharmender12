@@ -5,6 +5,7 @@
 ---
 
 - 🏛️ **PhD Researcher** (Astronomy) — Central University of Himachal Pradesh | Focus: Star formation in DLA systems using ML-based spectral analysis
+  
 - 🌌 **Ex-Visiting Research Student** — Indian Institute of Astrophysics, Bangalore | Built automated Python pipelines on large-scale astronomical datasets
 - 🎓 **Certified Data Scientist** — Masai School, Bangalore | Python · SQL · Power BI · ML · Deep Learning
 - 🤖 **Currently exploring** — Agentic AI, LLMs, and their applications in business analytics
