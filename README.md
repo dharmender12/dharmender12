@@ -82,7 +82,7 @@ Power BI
 
 ## 🌐 Connect with Me
 
-- 💼 :contentReference[oaicite:0]{index=0}: https://www.linkedin.com/in/dharmender-thakur1220/  
+- 💼 :LinkedIn:  https://www.linkedin.com/in/dharmender-thakur1220/  
 - 📧 Email: dharmender98thakur@gmail.com  
 
 ---
