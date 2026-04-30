@@ -1,90 +1,93 @@
 # 👋 Hi, I'm Dharmender Thakur
 
-### 🔬 Data Scientist · ML Engineer · Research-Driven Analytics
+### Data Scientist | Data Analyst | SQL, Machine Learning & Big Data (PySpark, Power BI)
 
----
+I solve real-world business problems using data — from raw data processing to insights, dashboards, and machine learning models.
 
-- 🏛️ **PhD Researcher** (Astronomy) — Central University of Himachal Pradesh | Focus: Star formation in DLA systems using ML-based spectral analysis
-  
-- 🌌 **Ex-Visiting Research Student** — Indian Institute of Astrophysics, Bangalore | Built automated Python pipelines on large-scale astronomical datasets
-- 🎓 **Certified Data Scientist** — Masai School, Bangalore | Python · SQL · Power BI · ML · Deep Learning
-- 🤖 **Currently exploring** — Agentic AI, LLMs, and their applications in business analytics
-- 💼 **Open to** — Data Scientist / Data Analyst roles (full-time)
-- 📬 Reach me: **dharmender98thakur@gmail.com**
+- 📊 Strong in **EDA, SQL, and business analytics**
+- ⚙️ Experienced in **ML, NLP, and scalable data pipelines (PySpark, Spark)**
+- 🧠 Worked on large-scale datasets at Indian Institute of Astrophysics
+- 👨‍🏫 Trained 100+ students in ML, SQL, and data engineering
+- 💼 Open to **Data Analyst / Data Scientist roles**
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Impact |
-|---|---|---|
-| [📦 Supply Chain & Inventory Optimization](https://github.com/dharmender12/Supply-Chain-Inventory-Optimization-System) | Python · SQL · Power BI | 10,000+ records · 22% stockout reduction · KPI dashboard |
-| [🔭 Star Formation in DLAs](https://github.com/dharmender12/Star-Formation-in-DLAs) | Python · Signal Processing · Astronomy | 200+ spectral observations · Automated emission detection pipeline |
-| [🎬 Movie Recommendation System](https://github.com/dharmender12/MovieRecommendation-System) | Python · NLP · Scikit-learn | 85%+ relevance · BoW · Cosine similarity |
-| [💬 Quotes Scraping & Sentiment Analysis](https://github.com/dharmender12/quotes-scraping-sql-eda) | Python · SQL · EDA | 1,000+ quotes · Sentiment polarity · SQL insights layer |
+### 📦 Supply Chain & Inventory Optimization (⭐ Flagship Project)
+- Built end-to-end analytics system on 10,000+ records
+- Reduced stockouts by **22%** using data-driven insights
+- Developed KPI dashboards in Power BI for business decisions
+- Solved delivery delays, warehouse performance, and demand forecasting  
+**Tools:** Python, SQL (CTEs, Window Functions), Power BI  
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages & Query**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-**ML / AI / Deep Learning**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-**BI & Databases**
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Cloud & Big Data**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
-**Web & Frameworks**
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+### 🧠 End-to-End Twitter Sentiment Analysis (⭐ ML + Deployment)
+- Built deep learning model achieving **96%+ accuracy**
+- Designed full pipeline: preprocessing → training → evaluation → deployment
+- Deployed using Streamlit for real-time sentiment prediction  
+**Tools:** Python, TensorFlow, NLP, Streamlit  
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Big Data Analytics (Medallion Architecture - Spark)
+- Built scalable data pipeline using Bronze → Silver → Gold architecture
+- Processed large-scale Amazon review data using Spark & Scala
+- Demonstrated real-world data engineering workflow  
+**Tools:** Apache Spark, Scala, PySpark  
 
-![Dharmender's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dharmender12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dharmender12&theme=tokyonight&hide_border=true)
+### 🎬 Recommendation System
+- Built personalized recommendation engine using collaborative filtering
+- Achieved **85%+ relevance** using cosine similarity  
+**Tools:** Python, NLP, Scikit-learn  
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dharmender12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+---
+
+### 📊 SQL + EDA: Quotes Analysis
+- Scraped and analyzed 1,000+ records
+- Performed SQL-based insights and exploratory analysis  
+**Tools:** Python, SQL  
+
+---
+
+## 💡 What I Bring
+
+- Translate business problems into data solutions
+- Strong SQL expertise (joins, CTEs, window functions)
+- Build dashboards for decision-making
+- Develop scalable data pipelines (ETL + Big Data)
+- Apply ML to real-world use cases
+
+---
+
+## 🛠️ Core Skills
+
+**Languages & Tools:**  
+Python · SQL · PySpark · Apache Spark  
+
+**Data & Analytics:**  
+Pandas · NumPy · EDA · Feature Engineering  
+
+**Machine Learning:**  
+Scikit-learn · TensorFlow · NLP  
+
+**Visualization:**  
+Power BI  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmender-thakur1220)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-2470-0400)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dharmender98thakur@gmail.com)
+- 💼 :contentReference[oaicite:0]{index=0}: https://www.linkedin.com/in/dharmender-thakur1220/  
+- 📧 Email: dharmender98thakur@gmail.com  
+
+---
+
+## 🎯 Current Focus
+
+- Data analytics & business problem solving  
+- Big data processing using PySpark & Spark  
+- Machine learning & NLP applications  
