@@ -116,7 +116,7 @@
 ## Experience
 
 **Data Science & Analytics Instructor** · Allsoft Solutions *(IBM Career Education Program)*  
-`2023 – Present`  
+`Oct, 2025 – Present`  
 - Delivered curriculum across ML, NLP pipelines, PySpark, Hadoop, Scala, DBMS, and Python  
 - Trained **100+ students** in end-to-end data science and data engineering workflows  
 - Designed project-based learning modules aligned with industry hiring standards  
