@@ -144,7 +144,7 @@
 
 > **Data Analyst · Data Scientist · Junior ML/AI Engineer roles**  
 > Preferred locations: **Chandigarh / Ludhiana**  
-> Notice period: **2 months**
+> Notice period: **2 months (Nagotiable)**
 > Open to hybrid and on-site positions
 
 ---
