@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### 👋 Hi, I'm Dharmender Thakur<br><br>I'm a Data Scientist and Machine Learning Engineer with a passion for transforming raw data into intelligent solutions. My work spans Data Analytics, Machine Learning, NLP, Big Data Engineering, and Dashboard Development.<br><br>Currently, I work as a Data Science & Analytics Instructor under the IBM Career Education Program, where I mentor aspiring data professionals while building real-world AI and analytics projects.<br><br>### 🚀 What I Do<br>- 📊 Data Analysis & Business Intelligence<br>- 🤖 Machine Learning & Deep Learning<br>- 📝 Natural Language Processing (NLP)<br>- ⚡ Big Data Engineering (PySpark, Hadoop, Scala)<br>- 🗄 SQL & Database Optimization<br>- 📈 Power BI Dashboards & Data Visualization<br>- 🚀 ML Model Deployment with Streamlit<br><br>### 💡 Interests<br>Building scalable data pipelines, solving business problems using AI, and creating end-to-end data products that deliver measurable impact.<br><br>📫 **Let's connect:**  <br>LinkedIn: https://www.linkedin.com/in/dharmender-thakur1220/  <br>Email: **dharmender98thakur@gmail.com**
+### 👋 Hi, I'm Dharmender Thakur<br><br>I'm a Data Scientist and Machine Learning Engineer with a passion for transforming raw data into intelligent solutions. My work spans Data Analytics, Machine Learning, NLP, Big Data Engineering, and Dashboard Development.<br><br>Currently, I work as a Data Science & Analytics Instructor under the IBM Career Education Program, where I mentor aspiring data professionals while building real-world AI and analytics projects.<br><br> ### 🚀 What I Do<br>- 📊 Data Analysis & Business Intelligence<br>- 🤖 Machine Learning & Deep Learning<br>- 📝 Natural Language Processing (NLP)<br>- ⚡ Big Data Engineering (PySpark, Hadoop, Scala)<br>- 🗄 SQL & Database Optimization<br>- 📈 Power BI Dashboards & Data Visualization<br>- 🚀 ML Model Deployment with Streamlit<br><br>### 💡 Interests<br>Building scalable data pipelines, solving business problems using AI, and creating end-to-end data products that deliver measurable impact.<br><br>📫 **Let's connect:**  <br>LinkedIn: https://www.linkedin.com/in/dharmender-thakur1220/  <br>Email: **dharmender98thakur@gmail.com**
 
 
 ## 🌐 Socials:
@@ -12,10 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=dharmender12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dharmender12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dharmender12&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=dharmender12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
