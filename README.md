@@ -1,159 +1,18 @@
-<div align="center">
+# 💫 About Me:
+## 👋 Hi, I'm Dharmender Thakur<br><br>I'm a Data Scientist and Machine Learning Engineer with a passion for transforming raw data into intelligent solutions. My work spans Data Analytics, Machine Learning, NLP, Big Data Engineering, and Dashboard Development.<br><br>Currently, I work as a Data Science & Analytics Instructor under the IBM Career Education Program, where I mentor aspiring data professionals while building real-world AI and analytics projects.<br><br>### 🚀 What I Do<br>- 📊 Data Analysis & Business Intelligence<br>- 🤖 Machine Learning & Deep Learning<br>- 📝 Natural Language Processing (NLP)<br>- ⚡ Big Data Engineering (PySpark, Hadoop, Scala)<br>- 🗄 SQL & Database Optimization<br>- 📈 Power BI Dashboards & Data Visualization<br>- 🚀 ML Model Deployment with Streamlit<br><br>### 💡 Interests<br>Building scalable data pipelines, solving business problems using AI, and creating end-to-end data products that deliver measurable impact.<br><br>📫 **Let's connect:**  <br>LinkedIn: https://www.linkedin.com/in/dharmender-thakur1220/  <br>Email: **dharmender98thakur@gmail.com**
 
-# Dharmender Thakur
-### Data Scientist · Data Analyst · ML Engineer
 
-*End-to-end data practitioner — from raw ingestion to production ML.*  
-*Builds pipelines at scale, tells stories through dashboards, trains the next generation of data engineers.*
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharmender-thakur1220) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dhamender Thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhar20menderthakur@gmail.com) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dharmender--thakur1220-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmender-thakur1220/)
-[![Email](https://img.shields.io/badge/Email-dharmender98thakur%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dharmender98thakur@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Chandigarh%20%2F%20Ludhiana%2C%20India-1D9E75?style=flat&logo=googlemaps&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)](#)
-
-</div>
-
----
-
-## Impact at a Glance
-
-| Metric | Value | Project |
-|--------|-------|---------|
-| NLP Model Accuracy | **96%+** | Twitter Sentiment Analysis |
-| Stockout Reduction | **22%** | Supply Chain Optimization |
-| Students Trained | **100+** | IBM Career Education Program |
-| Recommendation Relevance | **85%+** | Movie Recommendation Engine |
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dharmender12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=dharmender12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dharmender12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=dharmender12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Featured Projects
-
-### Supply Chain & Inventory Optimization &nbsp;`Flagship`
-> End-to-end analytics solution built on 10,000+ records — reduced stockouts, surfaced demand patterns, and delivered executive-ready dashboards.
-
-- Reduced stockouts by **22%** through data-driven demand forecasting insights  
-- Built KPI dashboards in **Power BI** for real-time operational decision-making  
-- Identified delivery delays and warehouse inefficiencies using window function analysis  
-- Applied CTEs and advanced SQL to model multi-tier inventory relationships  
-
-`Python` `SQL` `CTEs` `Window Functions` `Power BI` `EDA`
-
----
-
-### Twitter Sentiment Analysis — NLP + Deployment &nbsp;`ML · Deploy`
-> Full ML pipeline from raw text to live prediction app — preprocessing, deep learning model, evaluation, and Streamlit deployment.
-
-- Built deep learning NLP model achieving **96%+ accuracy** on real Twitter data  
-- Designed modular pipeline: data cleaning → tokenization → training → evaluation → serving  
-- Deployed interactive real-time prediction app using **Streamlit**  
-
-`Python` `TensorFlow` `NLP` `Streamlit` `Deep Learning`
-
----
-
-### Big Data Pipeline — Medallion Architecture &nbsp;`Data Engineering`
-> Production-style scalable data pipeline using Bronze → Silver → Gold architecture on Amazon review data.
-
-- Designed end-to-end pipeline demonstrating real-world data engineering workflow  
-- Processed large-scale datasets using **Apache Spark** and **Scala**  
-- Applied schema enforcement, deduplication, and aggregation across medallion layers  
-
-`Apache Spark` `PySpark` `Scala` `Medallion Architecture`
-
----
-
-### Movie Recommendation Engine
-> Collaborative filtering engine that converts raw user behavior into personalized recommendations.
-
-- Achieved **85%+ relevance** using cosine similarity on user-item interaction matrix  
-- Implemented user-based and item-based collaborative filtering approaches  
-
-`Python` `Scikit-learn` `NLP` `Cosine Similarity`
-
----
-
-### SQL + EDA: Quotes Analysis
-> Full data collection and analysis cycle — web scraping to SQL-driven insights.
-
-- Collected and cleaned **1,000+ records** via automated web scraping  
-- Performed exploratory data analysis and generated SQL-based business insights  
-
-`Python` `SQL` `BeautifulSoup` `EDA`
-
----
-
-## Core Skills
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-
-**ML & AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-6366F1?style=flat)
-
-**Data Engineering**
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-1D9E75?style=flat)
-
-**Analytics & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
----
-
-## Experience
-
-**Data Science & Analytics Instructor** · Allsoft Solutions *(IBM Career Education Program)*  
-`Oct, 2025 – Present`  
-- Delivered curriculum across ML, NLP pipelines, PySpark, Hadoop, Scala, DBMS, and Python  
-- Trained **100+ students** in end-to-end data science and data engineering workflows  
-- Designed project-based learning modules aligned with industry hiring standards  
-
-**Research Associate** · Indian Institute of Astrophysics  
-- Applied statistical analysis and data processing to large-scale scientific datasets  
-- Developed computational pipelines for research-grade data workflows  
-
----
-
-## What I Bring
-
-```
-✦ Turn raw, messy data into actionable business insights
-✦ SQL expertise: joins, CTEs, window functions, query optimization
-✦ Build decision-making dashboards stakeholders actually use
-✦ Design scalable ETL + Big Data pipelines (Bronze → Silver → Gold)
-✦ Deploy ML models from notebook to production app
-✦ Communicate findings clearly to both technical and non-technical audiences
-```
-
----
-
-## Currently Looking For
-
-> **Data Analyst · Data Scientist · Junior ML/AI Engineer roles**  
-> Preferred locations: **Chandigarh / Ludhiana**  
-> Notice period: **2 months (Nagotiable)**
-> Open to hybrid and on-site positions
-
----
-
-<div align="center">
-
-*"Data is the raw material. Insight is the product."*
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmender-thakur1220/)
-[![Email](https://img.shields.io/badge/Reach%20Out-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmender98thakur@gmail.com)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
