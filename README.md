@@ -88,18 +88,14 @@ I bridge the gap between **astronomical scale data processing** and **machine le
 
 <div align="center">
 
-<!-- Modern Dynamic Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmender12&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dharmender12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmender12&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Reliable Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=dharmender12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
 <div align="center">
   <p><i>"Transforming vast cosmic and business data into actionable intelligence."</i></p>
   <p>© Dharmender Thakur • Connected via <a href="https://orcid.org/0009-0009-2470-0400">ORCID iD</a></p>
