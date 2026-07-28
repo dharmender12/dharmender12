@@ -11,7 +11,7 @@
   </p>
 
   <!-- Modern Pill Links -->
-  <a href="https://linkedin.com/in/dharmender-thakur">
+  <a href="https://www.linkedin.com/in/dharmender-thakur1220/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://orcid.org/0009-0009-2470-0400">
@@ -20,7 +20,7 @@
   <a href="https://scholar.google.com/citations?user=LUqb9dYAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
-  <a href="[https://dharmender.github.io](https://dharmender-github-io.vercel.app/)">
+  <a href="https://dharmender-github-io.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:dharmender98thakur@gmail.com">
