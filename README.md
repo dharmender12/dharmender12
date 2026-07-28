@@ -7,7 +7,7 @@
 
   <p align="center">
     <b>Data Scientist</b> • <b>Astrophysical AI Researcher</b> • <b>Big Data & ML Engineer</b><br/>
-    <b>PhD Candidate @ Indian Institute of Astrophysics (IIA)</b> • <b>IBM Educator</b>
+    <b>PhD Candidate @ Central University of Himachal Pradesh</b> • <b>IBM Educator</b>
   </p>
 
   <!-- Modern Pill Links -->
