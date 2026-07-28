@@ -86,8 +86,8 @@ I bridge the gap between **astronomical scale data processing** and **machine le
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-
+<div align="center"> 
+  
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=dharmender12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmender12&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
