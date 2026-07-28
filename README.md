@@ -95,5 +95,5 @@ I bridge the gap between **astronomical scale data processing** and **machine le
 
 <img src="https://streak-stats.demolab.com/?user=dharmender12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>a <a href="https://orcid.org/0009-0009-2470-0400">ORCID iD</a></p>
+<!-- </div>a <a href="https://orcid.org/0009-0009-2470-0400">ORCID iD</a></p> -->
 </div>
